@@ -17,7 +17,7 @@
     <repository>
         <id>SpringMVC</id>
         <name>SpringMVC-releases</name>
-        <url>http://localhost:8081/artifactory/ext-release-local</url>
+        <url>http://localhost:8081/artifactory/ext-snapshot-local</url>
     </repository>
 </distributionManagement>
 
