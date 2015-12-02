@@ -13,6 +13,14 @@
 		<org.aspectj-version>1.6.10</org.aspectj-version>
 		<org.slf4j-version>1.6.6</org.slf4j-version>
 	</properties>
+	<distributionManagement>
+    <repository>
+        <id>SpringMVC</id>
+        <name>SpringMVC-releases</name>
+        <url>http://localhost:8081/artifactory</url>
+    </repository>
+</distributionManagement>
+
 	<dependencies>
 		<!-- Spring -->
 		<dependency>
